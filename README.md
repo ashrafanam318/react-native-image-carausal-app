@@ -12,3 +12,6 @@ then for building the iOS app, run
 
 and for android, run
 2. `npx react-native run-android`
+
+
+Demo: https://drive.google.com/file/d/1oE1RPOuV8CAptxsD91R7p1Pl2yhjp0Ej/view?usp=sharing
